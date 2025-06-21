@@ -32,18 +32,18 @@ DiceBear Avatars API for user icons
  ┗ 📄 README.md           → Project overview
 
 🚀 How to Run
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/notes-manager.git
 cd notes-manager
 
-# 2. Create a virtual environment (optional but recommended)
+2. Create a virtual environment (optional but recommended)
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
-# 3. Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Run the Flask app
+4. Run the Flask app
 python main.py
 
 💡 Why I Built This
